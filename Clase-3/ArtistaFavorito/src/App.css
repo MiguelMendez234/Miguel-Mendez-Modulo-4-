@@ -1,0 +1,30 @@
+
+.card {
+    width: 400px;
+    height: 400px;
+    background-color: lightblue;
+    margin: 10px;
+    text-align: center;
+}
+.card2{
+    width: 400px;
+    height: 400px;
+    background-color: lightseagreen;
+    margin: 10px;
+    text-align: center;
+}
+.card3{
+    width: 400px;
+    height: 400px;
+    background-color: lightgrey;
+    margin: 10px;
+    text-align: center;
+}
+
+.Img{
+    width: 200px;
+    height: 200px;
+}
+.App {
+    display: flex;
+}
